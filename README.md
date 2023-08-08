@@ -14,13 +14,13 @@ scipy~=1.7.1
 tqdm~=4.62.3
 ```
 
-###Guideline to run code
+### Guideline to run code
 To run our EDDA
 ```
 python .\run_edda.py --dataset ... --tasks ....
 ```
 
-###Acknowledgements
+### Acknowledgements
 
 Part of our codes in `LibMTL/` folder are from [LibMTL](https://github.com/median-research-group/LibMTL).
 
